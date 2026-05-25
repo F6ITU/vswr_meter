@@ -1,0 +1,11 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "teensy") (type "KiCad") (uri "${KIPRJMOD}/libs/Teensy/teensy.kicad_sym") (options "") (descr ""))
+	(lib (name "AD8307ARZ-REEL") (type "KiCad") (uri "${KIPRJMOD}/libs/AD8307ARZ-REEL/AD8307ARZ-REEL.kicad_sym") (options "") (descr ""))
+	(lib (name "ISL60002DIH326Z-TK") (type "KiCad") (uri "${KIPRJMOD}/libs/ISL60002DIH326Z-TK/ISL60002DIH326Z-TK.kicad_sym") (options "") (descr ""))
+	(lib (name "PE4259-63") (type "KiCad") (uri "${KIPRJMOD}/libs/PE4259-63/PE4259-63.kicad_sym") (options "") (descr ""))
+	(lib (name "PT-1245P-PQ") (type "KiCad") (uri "${KIPRJMOD}/libs/PT-1245P-PQ/PT-1245P-PQ.kicad_sym") (options "") (descr ""))
+	(lib (name "TSR_1-2450SM") (type "KiCad") (uri "${KIPRJMOD}/libs/TSR 1-2450/TSR_1-2450SM/TSR_1-2450SM.kicad_sym") (options "") (descr ""))
+	(lib (name "AD7991YRJZ-0RL") (type "KiCad") (uri "${KIPRJMOD}/libs/AD7991YRJZ-0RL/AD7991YRJZ-0RL.kicad_sym") (options "") (descr ""))
+	(lib (name "TSR_1-2450") (type "KiCad") (uri "${KIPRJMOD}/libs/TSR_1-2450/KiCad/TSR_1-2450.kicad_sym") (options "") (descr ""))
+)

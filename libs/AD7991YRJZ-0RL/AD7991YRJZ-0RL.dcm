@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7991YRJZ-0RL
+D Analog to Digital Converters - ADC 12-BIT 4-CHANNEL I2C ADC IN SOT IC
+K
+F https://www.mouser.in/datasheet/2/609/AD7991_7995_7999-1502095.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISL60002DIH326Z-TK
+D The ISL60002 FGA voltage references are very high precision analog voltage references fabricated using the Renesas proprietary Floating Gate Analog (FGA) technology and feature low supply voltage operation at ultra-low 350nA operating current. Additionally, the ISL60002 family features guaranteed initial accuracy as low as +/-1. 0mV and 20ppm/C temperature coefficient. The initial accuracy and temperature stability performance of the ISL60002 family, plus the low supply voltage and 350nA power consumption, e
+K
+F https://componentsearchengine.com//ISL60002DIH326Z-TK.pdf
+$ENDCMP
+#
+#End Doc Library
