@@ -16363,7 +16363,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9a54878-bc97-46a8-907a-32d0410d96aa")
-		(property "Reference" "U201"
+		(property "Reference" "U6"
 			(at 212.09 11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16429,7 +16429,7 @@
 		(instances
 			(project "swr_meter"
 				(path "/50ae8079-e6ac-4772-9784-7ae19d73aff9"
-					(reference "U201")
+					(reference "U6")
 					(unit 1)
 				)
 			)
