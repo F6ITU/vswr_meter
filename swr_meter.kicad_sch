@@ -5349,7 +5349,7 @@
 		)
 		(uuid "999a83a8-c588-4d82-9e03-75f1019134d8")
 	)
-	(text "J.G. Hostein\nPD0LEW"
+	(text "J.G. Holstein\nPD0LEW"
 		(exclude_from_sim no)
 		(at 219.71 173.99 0)
 		(effects
@@ -16373,7 +16373,7 @@
 				)
 			)
 		)
-		(property "Value" "TSR1-2450E"
+		(property "Value" "TSRN 1-2450E"
 			(at 212.09 13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
